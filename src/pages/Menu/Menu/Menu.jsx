@@ -30,25 +30,25 @@ const Menu = () => {
 
             {/* //dessert */}
             <MenuCategory items={dessert}
-            title={'Dessert'}
+            title={'dessert'}
             coverImg={dessertImg}
             ></MenuCategory>
 
             {/* pizza */}
             <MenuCategory items={pizza}
-            title={'Pizza'}
+            title={'pizza'}
             coverImg={pizzaImg}
             ></MenuCategory>
 
             {/* salads */}
             <MenuCategory items={salad}
-            title={'Salad'}
+            title={'salad'}
             coverImg={saladImg}
             ></MenuCategory>
 
             {/* salads */}
             <MenuCategory items={soup}
-            title={'Soup'}
+            title={'soup'}
             coverImg={soupImg}
             ></MenuCategory>
             
